@@ -125,7 +125,7 @@ We could then update our configuration file.
         "modalityLabel": "bold",
         "customLabels": "task-rest",
         "criteria": {
-            "SeriesDescription": "Axial_EPI-FMRI*",
+            "SeriesDescription": "Axial EPI-FMRI*",
             "SidecarFilename": "*Interleaved_I_to_S*"
             }
         },
